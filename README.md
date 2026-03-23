@@ -1,20 +1,20 @@
-# UPSC Chatbot 🤖
+# 🤖 UPSC JARVIS Chatbot
 
-A simple chatbot built using Python and Tkinter to answer UPSC-related queries.
+A beginner-friendly AI-powered UPSC preparation assistant built using Python and Tkinter.
 
-## Features
-- Answers eligibility, syllabus, exam pattern
-- GUI-based chatbot
-- Keyword-based responses
+## 🚀 Features
+- 📚 UPSC Basics (Eligibility, Pattern, Syllabus)
+- 🧠 Quiz Mode (MCQs with score tracking)
+- 📰 Current Affairs (Live updates)
+- 🎤 Voice Assistant (Text-to-Speech)
+- 🎨 Jarvis-style UI
 
-## Tech Used
+## 🛠️ Tech Stack
 - Python
 - Tkinter
+- pyttsx3
 
-## How to Run
+## ▶️ How to Run
 ```bash
+pip install pyttsx3
 python chatbot.py
-```
-
-## Author
-Bhanu Sruthi
